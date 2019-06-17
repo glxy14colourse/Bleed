@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "blocks/garnet_furnace_top",
+        "front": "blocks/garnet_furnace_front",
+        "side": "blocks/garnet_furnace_side"
+    }
+}

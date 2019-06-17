@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bleed",
+  "name": "Bleed",
+  "description": "Me first mod.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["glxy14colourse"],
+  "credits": "a lot of ppl",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

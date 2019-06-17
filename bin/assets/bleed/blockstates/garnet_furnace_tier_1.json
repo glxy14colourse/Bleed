@@ -1,0 +1,27 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube",
+    "textures": {
+      "particle": "bleed:blocks/garnet_furnace_front",
+      "north": "bleed:blocks/garnet_furnace_front",
+      "south": "bleed:blocks/garnet_furnace_side",
+      "west": "bleed:blocks/garnet_furnace_side",
+      "east": "bleed:blocks/garnet_furnace_side",
+      "up": "bleed:blocks/garnet_furnace_top",
+      "down": "bleed:blocks/garnet_furnace_top"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": {},
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90},
+      "up": {"x": -90},
+      "down": {"x": 90}
+    }
+  }
+}

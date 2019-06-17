@@ -1,0 +1,9 @@
+
+language.name=English
+language.region=United States
+language.code=en_us
+
+tile.bleed.allophane_ore.name=Allophane Ore
+tile.bleed.amber_ore.name=Amber Ore
+tile.bleed.garnet_furnace_tier_1.name=Garnet Furnace
+itemGroup.Bleeds=Bleeds
